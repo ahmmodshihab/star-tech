@@ -24,6 +24,11 @@ This project is a web scraping tool built using **Python**, designed to extract 
 * **Pandas**
 ---
 
+## Sample output
+![Output](sample/output.png)
+
+---
+
 ## 📂 Project Structure
 
 ```
