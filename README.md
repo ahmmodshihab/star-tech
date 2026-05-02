@@ -13,7 +13,7 @@ This project is a web scraping tool built using **Python**, designed to extract 
 * Scrape **extra features/specifications**
 * Extract **price information**
 * Clean and structured data output (CSV/JSON)
-
+* Handles pagination automatically
 ---
 
 ## 🛠️ Tech Stack
