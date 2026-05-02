@@ -21,7 +21,7 @@ This project is a web scraping tool built using **Python**, designed to extract 
 * **Python**
 * **Requests** – for sending HTTP requests
 * **BeautifulSoup (bs4)** – for parsing HTML content
-
+* **Pandas**
 ---
 
 ## 📂 Project Structure
